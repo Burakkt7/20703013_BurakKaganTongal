@@ -1,0 +1,47 @@
+D:\Visual Studio 2013\Projects\WpfClassVeri\WpfClassVeri\bin\Debug\WpfClassVeri.exe.config
+D:\Visual Studio 2013\Projects\WpfClassVeri\WpfClassVeri\bin\Debug\WpfClassVeri.exe
+D:\Visual Studio 2013\Projects\WpfClassVeri\WpfClassVeri\bin\Debug\WpfClassVeri.pdb
+D:\Visual Studio 2013\Projects\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\WpfClassVeri\WpfClassVeri\obj\Debug\MainWindow.baml
+D:\Visual Studio 2013\Projects\WpfClassVeri\WpfClassVeri\obj\Debug\MainWindow.g.cs
+D:\Visual Studio 2013\Projects\WpfClassVeri\WpfClassVeri\obj\Debug\App.g.cs
+D:\Visual Studio 2013\Projects\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri_MarkupCompile.cache
+D:\Visual Studio 2013\Projects\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri.g.resources
+D:\Visual Studio 2013\Projects\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri.Properties.Resources.resources
+D:\Visual Studio 2013\Projects\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri.exe
+D:\Visual Studio 2013\Projects\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri.pdb
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\bin\Debug\WpfClassVeri.exe.config
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\bin\Debug\WpfClassVeri.exe
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\bin\Debug\WpfClassVeri.pdb
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri.csproj.AssemblyReference.cache
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri.csproj.SuggestedBindingRedirects.cache
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\obj\Debug\MainWindow.baml
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\obj\Debug\MainWindow.g.cs
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\obj\Debug\App.g.cs
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri_MarkupCompile.cache
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri.g.resources
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri.Properties.Resources.resources
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri.csproj.GenerateResource.cache
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri.csproj.CoreCompileInputs.cache
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri.exe
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri.pdb
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\BURAK KAĞAN\Desktop\WpfClassVeri\WpfClassVeri\obj\Debug\WpfClassVeri_MarkupCompile.lref
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\obj\Debug\20703013_BurakKaganTongal.csproj.AssemblyReference.cache
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\obj\Debug\20703013_BurakKaganTongal.csproj.SuggestedBindingRedirects.cache
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\obj\Debug\MainWindow.g.cs
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\obj\Debug\App.g.cs
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\obj\Debug\WpfClassVeri_MarkupCompile.cache
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\obj\Debug\WpfClassVeri_MarkupCompile.lref
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\obj\Debug\MainWindow.baml
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\obj\Debug\WpfClassVeri.g.resources
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\obj\Debug\WpfClassVeri.pdb
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\bin\Debug\WpfClassVeri.exe.config
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\bin\Debug\WpfClassVeri.exe
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\bin\Debug\WpfClassVeri.pdb
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\obj\Debug\WpfClassVeri.Properties.Resources.resources
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\obj\Debug\20703013_BurakKaganTongal.csproj.GenerateResource.cache
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\obj\Debug\20703013_BurakKaganTongal.csproj.CoreCompileInputs.cache
+C:\Users\BURAK KAĞAN\Desktop\20703013_BurakKaganTongal\20703013_BurakKaganTongal\obj\Debug\WpfClassVeri.exe
